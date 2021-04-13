@@ -9,7 +9,7 @@
 
 ```markdown
 These are very important Downloads.
-Contact Fludix for the Password:
+Contact Fludix on Discord for the Password:
 Fludix#0453
 ```
 
