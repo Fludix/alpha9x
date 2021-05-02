@@ -13,7 +13,7 @@ Contact Fludix on Discord for the Password:
 Fludix#0453
 ```
 
-[Alpha9x v.2.57](https://www.mediafire.com/file/vst8m5w59iwmotk/Alpha9x_v2.56.zip)
+[Alpha9x v.2.57](https://www.mediafire.com/file/6jg6cnv7iwc0c5t/Alpha9x_v2.57.zip)
 -----------------
 
 -----------------
