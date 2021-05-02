@@ -19,10 +19,13 @@ Fludix#0453
 -----------------
 ### $|> Information:
 
-# 27/04/21 // 09:01 PM in Germany:
-Alpha9x Version 2.57 is now out:
--Only fixes on AccountReaper (It didn't have any Modules)
+# 02/05/21 // 04:25 PM in Germany:
+Alpha9x Version 2.57 is now out!
+I only fixed AccountReaper since it didn't work and it didn't have
+any Modules.
+-END-
 
+# 27/04/21 // 09:01 PM in Germany:
 Alpha9x Version 2.56 is now out!
 The new Programs are Discord Token Creator, DiscordHaxx and AccountReaper. 
 FYI: It says that it is a "virus" with DiscordHaxx and Discord Token
