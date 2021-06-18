@@ -13,11 +13,22 @@ Contact Fludix on Discord for the Password:
 Fludix#0453
 ```
 
-[Alpha9x v.2.57](https://www.mediafire.com/file/6jg6cnv7iwc0c5t/Alpha9x_v2.57.zip)
+[Alpha9x v3.57](https://www.mediafire.com/file/w0kcxs8kfo746cd/Alpha9x_v3.57.zip)
 -----------------
 
 -----------------
 ### $|> Information:
+
+# 18/06/21 // 08:00 PM in Germany:
+Alpha9x Version 3.57 is now out!
+I categorized the Programs in different Folders, so it looks clean!
+I added a Minecraft Account Checker (Minecraft.py), a YouTube Botting
+Program, I added another Discord Nitro Generator, I added a DDOS Program
+(Low Orbit Ion Cannon) and I added OpenBullet (Anomaly).
+RECOMMEND ME ANY PROGRAMS THAT ARE GOOD FOR THE PROJECT. KEEP IN MIND THAT
+I WILL CHECK THE FILES FOR ANY SUSPICIOUS MALICIOUS SCRIPTS. SO DO NOT TRY
+TO GIVE ME A VIRUS!
+-END-
 
 # 02/05/21 // 04:25 PM in Germany:
 Alpha9x Version 2.57 is now out!
