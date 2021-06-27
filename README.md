@@ -10,7 +10,7 @@
 ```markdown
 These are very important Downloads.
 Go to my Discord Server and contact me
-through the server: https://discord.gg/QFb95kX
+through the server: [Discord Server](https://discord.gg/QFb95kX)
 ```
 
 [Alpha9x v3.57](https://www.mediafire.com/file/w0kcxs8kfo746cd/Alpha9x_v3.57.zip)
