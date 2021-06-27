@@ -9,8 +9,8 @@
 
 ```markdown
 These are very important Downloads.
-Contact Fludix on Discord for the Password:
-Fludix#0453
+Go to my Discord Server and contact me
+through the server: https://discord.gg/QFb95kX
 ```
 
 [Alpha9x v3.57](https://www.mediafire.com/file/w0kcxs8kfo746cd/Alpha9x_v3.57.zip)
