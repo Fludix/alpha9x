@@ -13,7 +13,7 @@
 
 ```markdown
 The Project is protected with
-a passwort. In order to open it,
+a password. In order to open it,
 you will have to join the Alpha9x Server.
 ```
 
