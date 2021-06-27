@@ -22,6 +22,10 @@ you will have to join the Alpha9x Server.
 -----------------
 ### $|> Information:
 
+# 27/06/21 // 05:00 PM in Germany:
+I updated the Theme/UI for the Alpha9x Website Project.
+-END-
+
 # 18/06/21 // 08:00 PM in Germany:
 Alpha9x Version 3.57 is now out!
 I categorized the Programs in different Folders, so it looks clean!
