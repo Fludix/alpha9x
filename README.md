@@ -1,6 +1,15 @@
 -----------------
 ### $|> Release Notes:
 
+# 23/07/21 // 08:09 PM in Germany:
+Alpha9x Version 4.57 is finally out now!
+It's been a month since I updated Alpha9x.
+I added a new Discord Token Brute Force and organized everything good.
+There is a new Category called "Others". I added in a Program called Mailify. Good Program tbh!
+Anyways, I try my best to not put any virus in my project. My Customer's Privacy and Safety is
+my highest Priority.
+-END- 
+
 # 27/06/21 // 05:00 PM in Germany:
 I updated the Theme/UI for the Alpha9x Website Project.
 -END-
